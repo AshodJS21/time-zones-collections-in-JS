@@ -68,14 +68,6 @@ let getpolandTimeTime = function () {
   );
 };
 
-//yerevan
-let getyerevanTime = function () {
-  document.querySelector("#yerevanTime").innerHTML = new Date().toLocaleString(
-    "en-US",
-    { timeZone: "Asia/Yerevan", timeStyle: "medium", hourCycle: "h12" }
-  );
-};
-
 //japon
 let getjaponTime = function () {
   document.querySelector("#japonTime").innerHTML = new Date().toLocaleString(
@@ -126,6 +118,8 @@ let getgreenlandTime = function () {
     });
 };
 
+//running functions
+
 function main() {
   getbrazilTime();
   setInterval(getbrazilTime, 1000);
@@ -150,9 +144,6 @@ function main() {
 
   getpolandTimeTime();
   setInterval(getpolandTimeTime, 1000);
-
-  getyerevanTime();
-  setInterval(getyerevanTime, 1000);
 
   getjaponTime();
   setInterval(getjaponTime, 1000);
