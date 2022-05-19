@@ -1,0 +1,181 @@
+body{
+    background-color:wheat;
+    box-sizing: border-box;
+    padding:0;
+    max-width: 1900px;
+    margin: 0 auto;
+}
+
+
+main{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align:center;
+    overflow-wrap: break-word;
+    margin-top: 20px;
+    row-gap: 30px;
+}
+
+
+h3{
+    font-size: 25px;
+    font-weight:bolder;
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    font-weight:bolder;
+    text-align: center;
+}
+
+
+.brazilbox{
+    font-size: 1.5em;
+    background-color:rgba(226, 112, 112, 0.837);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+.losangelesbox{
+    font-size: 1.5em;
+    background-color:rgba(222, 226, 112, 0.783);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid rgb(0, 0, 0);
+    width: 20%;
+}
+
+
+.swedenbox{
+    font-size: 1.5em;
+    background-color:rgba(112, 226, 177, 0.692);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.spainbox{
+    font-size: 1.5em;
+    background-color:rgba(112, 146, 226, 0.566);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.icelandbox{
+    font-size: 1.5em;
+    background-color:rgba(167, 112, 226, 0.666);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.unitedkingdombox{
+    font-size: 1.5em;
+    background-color:rgba(226, 112, 194, 0.28);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.australiabox{
+    font-size: 1.5em;
+    background-color:rgba(112, 226, 222, 0.785);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.polandbox{
+    font-size: 1.5em;
+    background-color:rgba(116, 112, 226, 0.506);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.yerevanbox{
+    font-size: 1.5em;
+    background-color:rgba(226, 112, 220, 0.728);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.jamponbox{
+    font-size: 1.5em;
+    background-color:rgba(137, 211, 248, 0.827);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.lebanonbox{
+    font-size: 1.5em;
+    background-color:rgba(255, 174, 0, 0.605);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.germanybox{
+    font-size: 1.5em;
+    background-color:rgba(117, 236, 26, 0.681);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.chinabox{
+    font-size: 1.5em;
+    background-color:rgb(191, 249, 235);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+
+.uaebox{
+    font-size: 1.5em;
+    background-color:rgba(112, 224, 190, 0.743);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
+
+.greenlandbox{
+    font-size: 1.5em;
+    background-color:rgba(155, 233, 229, 0.773);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius:20px;
+    border:4px solid black;
+    width: 20%;
+}
